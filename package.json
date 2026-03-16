@@ -1,7 +1,7 @@
 {
   "name": "just-barcode-hook",
   "version": "1.0.1",
-  "type": "commonjs",
+  "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "author": {
